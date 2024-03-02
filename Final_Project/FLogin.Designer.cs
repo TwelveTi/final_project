@@ -36,6 +36,7 @@
             textBox2 = new TextBox();
             btnLogin = new Button();
             btnSignUp = new Button();
+            btnFogotPassword = new Button();
             SuspendLayout();
             // 
             // label1
@@ -100,13 +101,23 @@
             // 
             // btnSignUp
             // 
-            btnSignUp.Location = new Point(431, 429);
+            btnSignUp.Location = new Point(431, 425);
             btnSignUp.Name = "btnSignUp";
             btnSignUp.Size = new Size(94, 29);
             btnSignUp.TabIndex = 7;
             btnSignUp.Text = "Sign Up";
             btnSignUp.UseVisualStyleBackColor = true;
-            btnSignUp.Click += this.btnSignUp_Click;
+            btnSignUp.Click += btnSignUp_Click;
+            // 
+            // btnFogotPassword
+            // 
+            btnFogotPassword.Location = new Point(400, 483);
+            btnFogotPassword.Name = "btnFogotPassword";
+            btnFogotPassword.Size = new Size(157, 29);
+            btnFogotPassword.TabIndex = 8;
+            btnFogotPassword.Text = "Fogot Password";
+            btnFogotPassword.UseVisualStyleBackColor = true;
+            btnFogotPassword.Click += btnFogotPassword_Click;
             // 
             // FLogin
             // 
@@ -114,6 +125,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(1028, 680);
+            Controls.Add(btnFogotPassword);
             Controls.Add(btnSignUp);
             Controls.Add(btnLogin);
             Controls.Add(textBox2);
@@ -139,5 +151,6 @@
         private TextBox textBox2;
         private Button btnLogin;
         private Button btnSignUp;
+        private Button btnFogotPassword;
     }
 }

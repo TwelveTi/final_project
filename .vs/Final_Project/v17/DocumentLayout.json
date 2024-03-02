@@ -3,27 +3,43 @@
   "WorkspaceRootPath": "D:\\Window_Programming\\final_project\\Final_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|d:\\window_programming\\final_project\\final_project\\final_project\\fprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\fprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|d:\\window_programming\\final_project\\final_project\\final_project\\ffogotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\ffogotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|d:\\window_programming\\final_project\\final_project\\final_project\\fprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\fprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|d:\\window_programming\\final_project\\final_project\\final_project\\fupdatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\fupdatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|d:\\window_programming\\final_project\\final_project\\final_project\\fsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|d:\\window_programming\\final_project\\final_project\\final_project\\fupdatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\fupdatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|d:\\window_programming\\final_project\\final_project\\final_project\\ffogotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\ffogotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|D:\\Window_Programming\\final_project\\Final_Project\\final_project\\fsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\fsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|d:\\window_programming\\final_project\\final_project\\final_project\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|D:\\Window_Programming\\final_project\\Final_Project\\final_project\\fprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\fprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|d:\\window_programming\\final_project\\final_project\\final_project\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|D:\\Window_Programming\\final_project\\Final_Project\\final_project\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|d:\\window_programming\\final_project\\final_project\\final_project\\fuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|D:\\Window_Programming\\final_project\\Final_Project\\final_project\\fuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\fuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|d:\\window_programming\\final_project\\final_project\\final_project\\fuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|D:\\Window_Programming\\final_project\\Final_Project\\final_project\\fuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8993CFD-52F3-4CB1-B1E1-B7D384501AF2}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\fuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,24 +50,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FProfile.cs",
-              "DocumentMoniker": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FProfile.cs",
-              "RelativeDocumentMoniker": "Final_Project\\FProfile.cs",
-              "ToolTip": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FProfile.cs",
-              "RelativeToolTip": "Final_Project\\FProfile.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAlwBcAAAAeAAAA",
+              "DocumentIndex": 1,
+              "Title": "FUpdatePassword.cs",
+              "DocumentMoniker": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FUpdatePassword.cs",
+              "RelativeDocumentMoniker": "Final_Project\\FUpdatePassword.cs",
+              "ToolTip": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FUpdatePassword.cs",
+              "RelativeToolTip": "Final_Project\\FUpdatePassword.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAlwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T11:44:09.176Z",
+              "WhenOpened": "2024-03-02T15:43:55.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "FFogotPassword.cs",
+              "DocumentMoniker": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FFogotPassword.cs",
+              "RelativeDocumentMoniker": "Final_Project\\FFogotPassword.cs",
+              "ToolTip": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FFogotPassword.cs",
+              "RelativeToolTip": "Final_Project\\FFogotPassword.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwBwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:42:13.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FUpdatePassword.cs [Design]",
+              "DocumentMoniker": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FUpdatePassword.cs",
+              "RelativeDocumentMoniker": "Final_Project\\FUpdatePassword.cs",
+              "ToolTip": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FUpdatePassword.cs [Design]",
+              "RelativeToolTip": "Final_Project\\FUpdatePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:29:42.764Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FFogotPassword.cs [Design]",
+              "DocumentMoniker": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FFogotPassword.cs",
+              "RelativeDocumentMoniker": "Final_Project\\FFogotPassword.cs",
+              "ToolTip": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FFogotPassword.cs [Design]",
+              "RelativeToolTip": "Final_Project\\FFogotPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:20:14.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FLogin.Designer.cs",
+              "DocumentMoniker": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Final_Project\\FLogin.Designer.cs",
+              "ToolTip": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FLogin.Designer.cs",
+              "RelativeToolTip": "Final_Project\\FLogin.Designer.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAlwHcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:19:08.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FProfile.cs [Design]",
               "DocumentMoniker": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FProfile.cs",
               "RelativeDocumentMoniker": "Final_Project\\FProfile.cs",
@@ -63,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FSignUp.cs [Design]",
               "DocumentMoniker": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FSignUp.cs",
               "RelativeDocumentMoniker": "Final_Project\\FSignUp.cs",
@@ -75,20 +141,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "FUser.cs",
               "DocumentMoniker": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FUser.cs",
               "RelativeDocumentMoniker": "Final_Project\\FUser.cs",
               "ToolTip": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FUser.cs",
               "RelativeToolTip": "Final_Project\\FUser.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAIAzwB4AAAAiAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAEwB4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T10:02:16.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "FUser.cs [Design]",
               "DocumentMoniker": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FUser.cs",
               "RelativeDocumentMoniker": "Final_Project\\FUser.cs",
@@ -100,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "FLogin.cs [Design]",
               "DocumentMoniker": "D:\\Window_Programming\\final_project\\Final_Project\\Final_Project\\FLogin.cs",
               "RelativeDocumentMoniker": "Final_Project\\FLogin.cs",

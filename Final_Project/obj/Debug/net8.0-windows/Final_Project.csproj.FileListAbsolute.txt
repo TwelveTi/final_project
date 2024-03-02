@@ -17,3 +17,6 @@ D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0
 D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FUser.resources
 D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FSignUp.resources
 D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FProfile.resources
+D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.sourcelink.json
+D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FFogotPassword.resources
+D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FUpdatePassword.resources

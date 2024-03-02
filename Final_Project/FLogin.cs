@@ -10,7 +10,7 @@ namespace Final_Project
         private void btnLogin_Click(object sender, EventArgs e)
         {
             this.Hide();
-            FUser user=new FUser();
+            FUser user = new FUser();
             user.ShowDialog();
         }
 
@@ -21,6 +21,12 @@ namespace Final_Project
             fSignUp.ShowDialog();
         }
 
+        private void btnFogotPassword_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FFogotPassword ffogotPassword = new FFogotPassword();
+            ffogotPassword.ShowDialog();
+        }
     }
 
 }
