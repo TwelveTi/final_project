@@ -31,6 +31,8 @@
             btnBack = new Button();
             dataGridView1 = new DataGridView();
             btnUpdate = new Button();
+            btnFind = new Button();
+            btnApply = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -63,12 +65,33 @@
             btnUpdate.UseVisualStyleBackColor = true;
             btnUpdate.Click += btnUpdate_Click;
             // 
+            // btnFind
+            // 
+            btnFind.Location = new Point(264, 591);
+            btnFind.Name = "btnFind";
+            btnFind.Size = new Size(142, 43);
+            btnFind.TabIndex = 3;
+            btnFind.Text = "Find";
+            btnFind.UseVisualStyleBackColor = true;
+            btnFind.Click += btnFind_Click;
+            // 
+            // btnApply
+            // 
+            btnApply.Location = new Point(543, 585);
+            btnApply.Name = "btnApply";
+            btnApply.Size = new Size(119, 48);
+            btnApply.TabIndex = 4;
+            btnApply.Text = "Apply";
+            btnApply.UseVisualStyleBackColor = true;
+            // 
             // FUser
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(1087, 707);
+            Controls.Add(btnApply);
+            Controls.Add(btnFind);
             Controls.Add(btnUpdate);
             Controls.Add(dataGridView1);
             Controls.Add(btnBack);
@@ -84,5 +107,7 @@
         private Button btnBack;
         private DataGridView dataGridView1;
         private Button btnUpdate;
+        private Button btnFind;
+        private Button btnApply;
     }
 }

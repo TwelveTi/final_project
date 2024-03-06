@@ -20,3 +20,9 @@ D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0
 D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.sourcelink.json
 D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FFogotPassword.resources
 D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FUpdatePassword.resources
+D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FCompany.resources
+D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FFind.resources
+D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FCompanyAddJob.resources
+D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FAppliedCompany.resources
+D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FCV.resources
+D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FListCandidate.resources

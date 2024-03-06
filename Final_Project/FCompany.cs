@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Final_Project
 {
-    public partial class FUser : Form
+    public partial class FCompany : Form
     {
-        public FUser()
+        public FCompany()
         {
             InitializeComponent();
         }
@@ -24,18 +24,18 @@ namespace Final_Project
             fLogin.ShowDialog();
         }
 
-        private void btnUpdate_Click(object sender, EventArgs e)
+        private void btnAddJob_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            FProfile fProfile = new FProfile();
-            fProfile.ShowDialog();
+            //this.Hide();
+            FCompanyAddJob f = new FCompanyAddJob();
+            f.ShowDialog();
         }
 
-        private void btnFind_Click(object sender, EventArgs e)
+        private void btnApplied_Click(object sender, EventArgs e)
         {
             this.Hide();
-            FFind fFind = new FFind();
-            fFind.ShowDialog();
+            FAppliedCompany f = new FAppliedCompany();
+            f.ShowDialog();
         }
     }
 }
