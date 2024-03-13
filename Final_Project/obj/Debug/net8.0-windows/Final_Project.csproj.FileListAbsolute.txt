@@ -26,3 +26,5 @@ D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0
 D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FAppliedCompany.resources
 D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FCV.resources
 D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.FListCandidate.resources
+D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.UserControl1.resources
+D:\Window_Programming\final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.Properties.Resources.resources
